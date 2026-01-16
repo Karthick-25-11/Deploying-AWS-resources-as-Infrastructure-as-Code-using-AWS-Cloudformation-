@@ -124,4 +124,5 @@ Resources:
 Outputs:
   URL:
     Description: URL of the sample website
+
     Value: !Sub 'http://${WebServerInstance.PublicDnsName}'
