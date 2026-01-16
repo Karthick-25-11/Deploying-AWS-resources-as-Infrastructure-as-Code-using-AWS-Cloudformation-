@@ -1,3 +1,12 @@
+Added security rule 
+
+
+ <img width="246" height="153" alt="Screenshot 2026-01-16 224951" src="https://github.com/user-attachments/assets/ecc28748-1354-4291-9435-0af2016cd718" />
+
+
+
+
+
 ⚠️ Security Best Practice 
 
 Although SSH is enabled
