@@ -33,7 +33,7 @@ The application layer is later **updated to allow SSH access** and successfully 
 
 ## 🔁 Cross-layer Design
 
-* The **Networking Stack** exports values such as:
+* The **Networking layer** exports values such as:
 
   * VPC ID
   * Public Subnet ID to Application layer
